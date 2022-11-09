@@ -1,0 +1,6 @@
+/*.o
+/client
+/client[0-9]
+/server
+/server[0-9]
+/write_to_file
