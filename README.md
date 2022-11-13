@@ -1,2 +1,3 @@
-# CSE422S-OperatingSystemsOrganization
-CSE 422S: Operating Systems Organization, Spring 2022, Washington University in St. Louis
+# CSE422S: Operating Systems Organization
+
+Spring 2022 @Washington University in St. Louis
